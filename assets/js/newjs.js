@@ -28,7 +28,7 @@ document.getElementById('downloadButton2').addEventListener('click', function() 
 
     // Set the href attribute to the path of the PDF file
     downloadLink.target="_blank"
-    downloadLink.href = "Tushar's Resume-hackerresume (2).pdf";
+    downloadLink.href = "TusharResume.pdf";
 
     // Append the link to the document
     document.body.appendChild(downloadLink);
